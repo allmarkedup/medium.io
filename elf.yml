@@ -1,0 +1,6 @@
+repository: git@github.com:allmarkedup/medium.io.git
+
+deploy:
+  branch: master
+  server: general.servers.allmarkedup.com
+  domain: medium.io
